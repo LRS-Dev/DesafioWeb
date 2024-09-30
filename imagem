@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="style.css" />
+  <title>Browser</title>
+</head>
+
+<body>
+  <h1> Título Maior </h1>
+  <img src="https://cdn.awsli.com.br/2500x2500/1957/1957771/produto/10477546210ad4a54a2.jpg">
+  <script src="script.js"></script>
+</body>
+
+</html>
